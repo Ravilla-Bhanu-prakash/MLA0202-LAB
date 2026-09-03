@@ -8,6 +8,5 @@ b = price.mean() - m*area.mean()
 
 house = 1400
 prediction = m*house + b
-print("POLIREDDY 192325056")
 print("reddy\AppData\Local\Programs\Microsoft VS Code>")
 print("Predicted House Price:", prediction)
